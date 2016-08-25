@@ -1,6 +1,6 @@
 <!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 # One Faith
-## Eph4:14-16 (Sun am)
+## Eph 4:14-16 *(Sun am)*
 ### CECBC Retreat: United
 
 >>>
