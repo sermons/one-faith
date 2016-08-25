@@ -18,4 +18,100 @@
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
+# Q0
+
+---
+## Ephesians 4:14 (NIV) (p.1/2)
+Then we will no longer be **infants**, <br/>
+tossed back and forth by the waves,
+
+and blown here and there by every **wind of teaching**
+
+and by the **cunning** and **craftiness** <br/>
+of people in their **deceitful scheming**.
+
+---
+## Ephesians 4:15-16 (NIV) (p.2/2)
+Instead, speaking the **truth in love**, <br/>
+we will **grow** to become <br/>
+in every respect the **mature body** <br/>
+of him who is the **head**, that is, Christ.
+
+From him the whole body, <br/>
+**joined** and **held together** <br/>
+by every **supporting ligament**,
+
+**grows** and builds itself up in love, <br/>
+as each **part** does its work.
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+## Eph4:14-16 One Faith
+1. No Longer **Babies** <span class="hl2">(v14)</span>
+2. Christ the **Head** <span class="hl2">(v15)</span>
+3. **Growing** the Body <span class="hl2">(v16)</span>
+
+---
+## Ephesians 4:14 (NIV)
+Then we will no longer be **infants**, <br/>
+tossed back and forth by the waves,
+
+and blown here and there by every **wind of teaching**
+
+and by the **cunning** and **craftiness** <br/>
+of people in their **deceitful scheming**.
+
+---
+<!-- .slide: class="Q" data-background="white" -->
 # Q1
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+## Eph4:14-16 One Faith
+1. No Longer *Babies* <span class="hl2">(v14)</span>
+2. **Christ the Head** <span class="hl2">(v15)</span>
+3. *Growing* the Body <span class="hl2">(v16)</span>
+
+---
+## Ephesians 4:15 (NIV)
+Instead, speaking the **truth in love**,
+
+we will **grow** to become <br/>
+in every respect the **mature body**
+
+of him who is the **head**, that is, Christ.
+
+---
+<!-- .slide: class="Q" data-background="white" -->
+# Q2
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+## Eph4:14-16 One Faith
+1. No Longer *Babies* <span class="hl2">(v14)</span>
+2. Christ the *Head* <span class="hl2">(v15)</span>
+3. **Growing the Body** <span class="hl2">(v16)</span>
+
+---
+## Ephesians 4:16 (NIV)
+From him the whole body, <br/>
+**joined** and **held together** <br/>
+by every **supporting ligament**,
+
+**grows** and builds itself up in love, <br/>
+as each **part** does its work.
+
+---
+<!-- .slide: class="Q" data-background="white" -->
+# Q3
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+## Eph4:14-16 One Faith
+1. No Longer **Babies** <span class="hl2">(v14)</span>
+2. Christ the **Head** <span class="hl2">(v15)</span>
+3. **Growing** the Body <span class="hl2">(v16)</span>
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" class="empty" -->
+
