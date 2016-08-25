@@ -21,7 +21,7 @@
 # Q0
 
 ---
-## Ephesians 4:14 (NIV) (p.1/2)
+## Ephesians 4:14 (NIV) (p.1/3)
 Then we will no longer be **infants**, <br/>
 tossed back and forth by the waves,
 
@@ -31,12 +31,14 @@ and by the **cunning** and **craftiness** <br/>
 of people in their **deceitful scheming**.
 
 ---
-## Ephesians 4:15-16 (NIV) (p.2/2)
+## Ephesians 4:15 (NIV) (p.2/3)
 Instead, speaking the **truth in love**, <br/>
 we will **grow** to become <br/>
 in every respect the **mature body** <br/>
 of him who is the **head**, that is, Christ.
 
+---
+## Ephesians 4:16 (NIV) (p.3/3)
 From him the whole body, <br/>
 **joined** and **held together** <br/>
 by every **supporting ligament**,
