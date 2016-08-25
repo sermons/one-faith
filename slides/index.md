@@ -1,14 +1,14 @@
 <!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 # One Faith
 ## Eph4:14-16 (Sun am)
-### CECBC Retreat: Unite!
+### CECBC Retreat: United
 
 >>>
 [one-faith](http://one-faith.seanho.com/)
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
-## Unite! (Ephesians 4)
+## United (Ephesians 4)
 1. <span class="hl1">Thu am</span>:
   **One Calling** <span class="hl2">(v1-3)</span>
 2. <span class="hl1">Thu pm</span>:
