@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 # One Faith
 ## Eph 4:14-16 *(Sun am)*
 ### CECBC Retreat: United
@@ -7,7 +7,7 @@
 [one-faith](http://one-faith.seanho.com/)
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 ## United (Ephesians 4)
 1. Thu am: *One Calling* <span class="hl2">(v1-3)</span>
 2. Thu pm: *One Body* <span class="hl2">(v11-13)</span>
