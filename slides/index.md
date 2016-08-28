@@ -104,22 +104,45 @@ in every respect the **mature body**
 
 of him who is the **head**, that is, Christ.
 
---
+>>>
++ **truth** in love:
+  + not **sincerity** / honesty
+  + **God's** truth
++ grow into the **Head**
+  + singular vision to **pursue** Christ
+
+---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
-## Mark 8:34,36 (NIV)
-If anyone wishes to **come after Me**,
-he must **deny himself**,
+## Mark 8:34,36 (NASB)
+If anyone wishes to **come after Me**, <br/>
+he must **deny himself**, <br/>
 and **take up his cross** and **follow Me**.
 
-For what does it **profit** a man
+For what does it **profit** a man <br/>
 to **gain the whole world**, and **forfeit his soul**?
+
+>>>
++ **maturity**: knowing lots? **capable**?
++ Humbly walk with God as a **child**
+
+---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-C2PvO6dOORY-girls_walk.jpg" -->
+## Matthew 18:3-4 (NASB)
+Truly I say to you, <br/>
+unless you are converted and **become like children**, <br/>
+you will not enter the **kingdom of heaven**.
+
+Whoever then **humbles himself** as this child, <br/>
+he is the **greatest** in the kingdom of heaven.
+
+>>>
++ Greatest **aspiration**: walk with our **Saviour**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# In speaking the **truth**, <br/> is my aim **love**?
+# Do I **aspire** to <br/> **childlike** faith in Christ?
 
 >>>
-For growth of the whole body of Christ
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
