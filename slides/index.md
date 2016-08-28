@@ -47,7 +47,7 @@ as each **part** does its work.
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
 ## Eph4:14-16 One Faith
 1. Sneaky **Schemes** <span class="hl2">(v14)</span>
-2. Christ the **Head** <span class="hl2">(v15)</span>
+2. Swelling **Sincerity** <span class="hl2">(v15)</span>
 3. **Sinews** of Supply <span class="hl2">(v16)</span>
 
 ---
@@ -91,9 +91,9 @@ Jung Myung Seok (Joshua)
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
 ## Eph4:14-16 One Faith
-1. No Longer *Babies* <span class="hl2">(v14)</span>
-2. **Christ the Head** <span class="hl2">(v15)</span>
-3. *Growing* the Body <span class="hl2">(v16)</span>
+1. Sneaky *Schemes* <span class="hl2">(v14)</span>
+2. **Swelling Sincerity** <span class="hl2">(v15)</span>
+3. *Sinews* of Supply <span class="hl2">(v16)</span>
 
 ---
 ## Ephesians 4:15 (NIV)
@@ -114,9 +114,9 @@ For growth of the whole body of Christ
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
 ## Eph4:14-16 One Faith
-1. No Longer *Babies* <span class="hl2">(v14)</span>
-2. Christ the *Head* <span class="hl2">(v15)</span>
-3. **Growing the Body** <span class="hl2">(v16)</span>
+1. Sneaky *Schemes* <span class="hl2">(v14)</span>
+2. Swelling *Sincerity* <span class="hl2">(v15)</span>
+3. **Sinews of Supply** <span class="hl2">(v16)</span>
 
 ---
 ## Ephesians 4:16 (NIV)
@@ -137,10 +137,37 @@ as each **part** does its work.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
-## Eph4:14-16 One Faith
-1. No Longer **Babies** <span class="hl2">(v14)</span>
-2. Christ the **Head** <span class="hl2">(v15)</span>
-3. **Growing** the Body <span class="hl2">(v16)</span>
+## Ephesians 4:14 (NIV) (p.1/3)
+Then we will no longer be **infants**, <br/>
+tossed back and forth by the waves,
+
+and blown here and there by every **wind of teaching**
+
+and by the **cunning** and **craftiness** <br/>
+of people in their **deceitful scheming**.
+
+---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
+## Ephesians 4:15 (NIV) (p.2/3)
+Instead, speaking the **truth in love**, <br/>
+we will **grow** to become <br/>
+in every respect the **mature body** <br/>
+of him who is the **head**, that is, Christ.
+
+---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
+## Ephesians 4:16 (NIV) (p.3/3)
+From him the whole body, <br/>
+**joined** and **held together** <br/>
+by every **supporting ligament**,
+
+**grows** and **builds** itself up in love, <br/>
+as each **part** does its work.
+
+>>>
+1. Sneaky **Schemes**
+2. Swelling **Sincerity**
+3. **Sinews** of Supply
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" class="empty" -->
