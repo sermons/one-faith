@@ -85,8 +85,8 @@ Jung Myung Seok (Joshua)
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Am I **grounded** in God's Word
-# or **blown** by winds of teaching?
+# Am I **grounded** <br/> in God's Word
+# or **blown** by <br/> winds of teaching?
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
