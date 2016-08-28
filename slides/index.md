@@ -46,9 +46,9 @@ as each **part** does its work.
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
 ## Eph4:14-16 One Faith
-1. No Longer **Babies** <span class="hl2">(v14)</span>
+1. Sneaky **Schemes** <span class="hl2">(v14)</span>
 2. Christ the **Head** <span class="hl2">(v15)</span>
-3. **Growing** the Body <span class="hl2">(v16)</span>
+3. **Sinews** of Supply <span class="hl2">(v16)</span>
 
 ---
 ## Ephesians 4:14 (NIV)
@@ -85,7 +85,8 @@ Jung Myung Seok (Joshua)
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q1
+# Am I **grounded** in God's Word
+# or **blown** by winds of teaching?
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
@@ -105,7 +106,10 @@ of him who is the **head**, that is, Christ.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q2
+# In speaking the **truth**, <br/> is my aim **love**?
+
+>>>
+For growth of the whole body of Christ
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
