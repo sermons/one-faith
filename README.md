@@ -1,4 +1,4 @@
-# Ephesians 4:14-16, One Fath (pt3/3)
+# Ephesians 4:14-16, One Faith (pt3/3)
 
 [![Travis-CI build status](https://travis-ci.org/sermons/one-faith.svg)](https://travis-ci.org/sermons/one-faith)
 [![Node dependencies](https://david-dm.org/sermons/one-faith.svg)](https://david-dm.org/sermons/one-faith)
