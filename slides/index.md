@@ -118,7 +118,7 @@ If anyone wishes to **come after Me**, <br/>
 he must **deny himself**, <br/>
 and **take up his cross** and **follow Me**.
 
-For what does it **profit** a man <br/>
+[...] For what does it **profit** a man <br/>
 to **gain the whole world**, and **forfeit his soul**?
 
 >>>
