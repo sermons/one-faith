@@ -61,6 +61,29 @@ and by the **cunning** and **craftiness** <br/>
 of people in their **deceitful scheming**.
 
 ---
+
+## Providence (JMS)
+
+<div class="imgbox">
+<div>
+For further reading:
+* [Apologetics Index](http://www.apologeticsindex.org/416-jung-myung-seok)
+* [A Study of Denominations](http://www.astudyofdenominations.com/denominations/providence/)
+* [JMSCult](http://jmscult.com/)
+</div>
+<div>![JMS, from their own website](http://sermons.seanho.com/img/fig/jungmyungseok.png)</div>
+</div>
+
+>>>
+Jung Myung Seok (Joshua)
++ splinter from Unification church ("Moonies")
++ numerology: Messiah
++ "always smile": life is good, hardship is only mental
++ Love Principle: Eve fell due to sex; women redeemed via sex w/JMS
+  + in jail in Korea since 2009, 3 counts rape (100s of accusations)
+  + "religious injustice", "persecuted Christians"
+
+---
 <!-- .slide: class="Q" data-background="white" -->
 # Q1
 
@@ -106,7 +129,7 @@ as each **part** does its work.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# What **sinews of supply** in the church have I resisted?
+# What **sinews of supply** in the church have I been resisting?
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
