@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
 # One Faith
 ## Eph 4:14-16 *(Sun am)*
 ### CECBC Retreat: United
@@ -15,7 +15,7 @@
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q0
+# What does it mean to be **mature**?
 
 ---
 ## Ephesians 4:14 (NIV) (p.1/3)
@@ -40,11 +40,11 @@ From him the whole body, <br/>
 **joined** and **held together** <br/>
 by every **supporting ligament**,
 
-**grows** and builds itself up in love, <br/>
+**grows** and **builds** itself up in love, <br/>
 as each **part** does its work.
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
 ## Eph4:14-16 One Faith
 1. No Longer **Babies** <span class="hl2">(v14)</span>
 2. Christ the **Head** <span class="hl2">(v15)</span>
@@ -65,7 +65,7 @@ of people in their **deceitful scheming**.
 # Q1
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
 ## Eph4:14-16 One Faith
 1. No Longer *Babies* <span class="hl2">(v14)</span>
 2. **Christ the Head** <span class="hl2">(v15)</span>
@@ -85,7 +85,7 @@ of him who is the **head**, that is, Christ.
 # Q2
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
 ## Eph4:14-16 One Faith
 1. No Longer *Babies* <span class="hl2">(v14)</span>
 2. Christ the *Head* <span class="hl2">(v15)</span>
@@ -97,20 +97,24 @@ From him the whole body, <br/>
 **joined** and **held together** <br/>
 by every **supporting ligament**,
 
-**grows** and builds itself up in love, <br/>
+**grows** and **builds** itself up in love, <br/>
 as each **part** does its work.
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
-# Q3
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-cpyEmA5b6EI-dancers.jpg" -->
+... by every **supporting ligament** ...
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: class="Q" data-background="white" -->
+# What **sinews of supply** in the church have I resisted?
+
+---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
 ## Eph4:14-16 One Faith
 1. No Longer **Babies** <span class="hl2">(v14)</span>
 2. Christ the **Head** <span class="hl2">(v15)</span>
 3. **Growing** the Body <span class="hl2">(v16)</span>
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" class="empty" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" class="empty" -->
 
