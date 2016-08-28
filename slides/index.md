@@ -104,6 +104,16 @@ in every respect the **mature body**
 
 of him who is the **head**, that is, Christ.
 
+--
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
+## Mark 8:34,36 (NIV)
+If anyone wishes to **come after Me**,
+he must **deny himself**,
+and **take up his cross** and **follow Me**.
+
+For what does it **profit** a man
+to **gain the whole world**, and **forfeit his soul**?
+
 ---
 <!-- .slide: class="Q" data-background="white" -->
 # In speaking the **truth**, <br/> is my aim **love**?
