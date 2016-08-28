@@ -128,8 +128,7 @@ to **gain the whole world**, and **forfeit his soul**?
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-C2PvO6dOORY-girls_walk.jpg" -->
 ## Matthew 18:3-4 (NASB)
-Truly I say to you, <br/>
-unless you are converted and **become like children**, <br/>
+Unless you are converted and **become like children**, <br/>
 you will not enter the **kingdom of heaven**.
 
 Whoever then **humbles himself** as this child, <br/>
