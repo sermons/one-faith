@@ -3,7 +3,7 @@
 
 [![Travis-CI build status](https://travis-ci.org/sermons/one-faith.svg)](https://travis-ci.org/sermons/one-faith)
 [![Node dependencies](https://david-dm.org/sermons/one-faith.svg)](https://david-dm.org/sermons/one-faith)
-[![Node dev status](https://david-dm.org/sermons/one-faith/dev-status.svg)](https://david-dm.org/sermons/one-faith#info=devDependencies)
+[![Node dev status](https://david-dm.org/sermons/one-faith/dev-status.svg)](https://david-dm.org/sermons/one-faith?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
