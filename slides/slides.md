@@ -1,14 +1,11 @@
-<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> id="title" -->
 # One **Faith**
 ## (3) Ephesians 4:14-16
 ### Choose His *Kingdom*, <br> Journey *Together*
 
->>>
-[one-faith](http://one-faith.seanho.com/)
-
 ---
-<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
-## Choose His *Kingdom*, <br> Journey *Together*
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
+## Choose His Kingdom, Journey Together
 1. One *Calling* [(v1-3)](# ref")
 2. One *Body* [(v11-13)](# ref")
 3. **One Faith** [(v14-16)](# ref")
@@ -46,9 +43,9 @@ as each **part** does its work.
 ---
 <!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
 ## Eph4:14-16 One Faith
-1. Sneaky **Schemes** <span class="hl2">(v14)</span>
-2. Seeking the **Saviour** <span class="hl2">(v15)</span>
-3. **Sinews** of Supply <span class="hl2">(v16)</span>
+1. Sneaky **Schemes** [(v14)](# "ref")
+2. Seeking the **Saviour** [(v15)](# "ref")
+3. **Sinews** of Supply [(v16)](# "ref")
 
 ---
 ## Ephesians 4:14 (NIV)
@@ -91,9 +88,9 @@ Jung Myung Seok (Joshua)
 ---
 <!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
 ## Eph4:14-16 One Faith
-1. Sneaky *Schemes* <span class="hl2">(v14)</span>
-2. **Seeking the Saviour** <span class="hl2">(v15)</span>
-3. *Sinews* of Supply <span class="hl2">(v16)</span>
+1. Sneaky *Schemes* [(v14)](# "ref")
+2. **Seeking the Saviour** [(v15)](# "ref")
+3. *Sinews* of Supply [(v16)](# "ref")
 
 ---
 ## Ephesians 4:15 (NIV)
@@ -146,9 +143,9 @@ he is the **greatest** in the kingdom of heaven.
 ---
 <!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
 ## Eph4:14-16 One Faith
-1. Sneaky *Schemes* <span class="hl2">(v14)</span>
-2. Seeking the *Saviour* <span class="hl2">(v15)</span>
-3. **Sinews of Supply** <span class="hl2">(v16)</span>
+1. Sneaky *Schemes* [(v14)](# "ref")
+2. Seeking the *Saviour* [(v15)](# "ref")
+3. **Sinews of Supply** [(v16)](# "ref")
 
 ---
 ## Ephesians 4:16 (NIV)
@@ -203,4 +200,3 @@ as each **part** does its work.
 
 ---
 <!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> class="empty" -->
-
