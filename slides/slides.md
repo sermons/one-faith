@@ -1,20 +1,20 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
-# One Faith
-## Ephesians 4:14-16
-### Part 3 of 3
+<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
+# One **Faith**
+## (3) Ephesians 4:14-16
+### Choose His *Kingdom*, <br> Journey *Together*
 
 >>>
 [one-faith](http://one-faith.seanho.com/)
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
-## Ephesians 4
-1. *One Calling* [(v1-3)](# ref")
-2. *One Body* [(v11-13)](# ref")
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
+## Choose His *Kingdom*, <br> Journey *Together*
+1. One *Calling* [(v1-3)](# ref")
+2. One *Body* [(v11-13)](# ref")
 3. **One Faith** [(v14-16)](# ref")
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # What does it mean to be **mature**?
 
 ---
@@ -44,7 +44,7 @@ by every **supporting ligament**,
 as each **part** does its work.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
+<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
 ## Eph4:14-16 One Faith
 1. Sneaky **Schemes** <span class="hl2">(v14)</span>
 2. Seeking the **Saviour** <span class="hl2">(v15)</span>
@@ -84,12 +84,12 @@ Jung Myung Seok (Joshua)
   + "religious injustice", "persecuted Christians"
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Am I **grounded** <br/> in God's Word
 # or **blown** by <br/> winds of teaching?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
+<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
 ## Eph4:14-16 One Faith
 1. Sneaky *Schemes* <span class="hl2">(v14)</span>
 2. **Seeking the Saviour** <span class="hl2">(v15)</span>
@@ -112,7 +112,7 @@ of him who is the **head**, that is, Christ.
   + singular vision to **pursue** Christ
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 ## Mark 8:34,36 (NASB)
 If anyone wishes to **come after Me**, <br/>
 he must **deny himself**, <br/>
@@ -126,7 +126,7 @@ to **gain the whole world**, and **forfeit his soul**?
 + Humbly walk with God as a **child**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-C2PvO6dOORY-girls_walk.jpg" -->
+<!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 ## Matthew 18:3-4 (NASB)
 Unless you are converted and **become like children**, <br/>
 you will not enter the **kingdom of heaven**.
@@ -138,13 +138,13 @@ he is the **greatest** in the kingdom of heaven.
 + Greatest **aspiration**: walk with our **Saviour**
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Do I **aspire** to <br/> **childlike** faith in Christ?
 
 >>>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
+<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
 ## Eph4:14-16 One Faith
 1. Sneaky *Schemes* <span class="hl2">(v14)</span>
 2. Seeking the *Saviour* <span class="hl2">(v15)</span>
@@ -160,15 +160,15 @@ by every **supporting ligament**,
 as each **part** does its work.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cpyEmA5b6EI-dancers.jpg" -->
+<!-- .slide: <%= bg("unsplash-cpyEmA5b6EI-dancers.jpg") %> -->
 ... by every **supporting ligament** ...
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # What **sinews of supply** in the church have I been resisting?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
+<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
 ## Ephesians 4:14 (NIV) (p.1/3)
 Then we will no longer be **infants**, <br/>
 tossed back and forth by the waves,
@@ -179,7 +179,7 @@ and by the **cunning** and **craftiness** <br/>
 of people in their **deceitful scheming**.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
+<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
 ## Ephesians 4:15 (NIV) (p.2/3)
 Instead, speaking the **truth in love**, <br/>
 we will **grow** to become <br/>
@@ -187,7 +187,7 @@ in every respect the **mature body** <br/>
 of him who is the **head**, that is, Christ.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
+<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
 ## Ephesians 4:16 (NIV) (p.3/3)
 From him the whole body, <br/>
 **joined** and **held together** <br/>
@@ -202,5 +202,5 @@ as each **part** does its work.
 3. **Sinews** of Supply
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> class="empty" -->
 
