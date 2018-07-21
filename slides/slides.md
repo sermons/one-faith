@@ -1,16 +1,13 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
-# One Faith
-## Ephesians 4:14-16
-### Part 3 of 3
-
->>>
-[one-faith](http://one-faith.seanho.com/)
+<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> id="title" -->
+# One **Faith**
+## (3) Ephesians 4:14-16
+### Choose His *Kingdom*, <br> Journey *Together*
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
-## Ephesians 4
-1. *One Calling* [(v1-3)](# ref")
-2. *One Body* [(v11-13)](# ref")
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
+## Choose His Kingdom, Journeying Together
+1. One *Calling* [(v1-3)](# ref")
+2. One *Body* [(v11-13)](# ref")
 3. **One Faith** [(v14-16)](# ref")
 
 ---
