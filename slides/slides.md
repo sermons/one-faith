@@ -71,8 +71,8 @@ of people in their **deceitful scheming**.
 
 <div class="imgbox"><div>
 For further reading:
-[Apologetics Index](http://www.apologeticsindex.org/416-jung-myung-seok),
-[A Study of Denominations](http://www.astudyofdenominations.com/denominations/providence/),
+[Apologetics Index](http://www.apologeticsindex.org/416-jung-myung-seok)<br/>
+[A Study of Denominations](http://www.astudyofdenominations.com/denominations/providence/)<br/>
 [JMSCult](http://jmscult.com/)
 </div><div>
 ![JMS, from their own website](https://sermons.seanho.com/img/fig/jungmyungseok.png)
@@ -133,7 +133,8 @@ to **gain the whole world**, and **forfeit his soul**?
 
 ---
 <!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
-Unless you are converted and **become like children**, <br/>
+Unless you are converted <br/>
+and **become like children**, <br/>
 you will not enter the **kingdom of heaven**.
 
 Whoever then **humbles himself** as this child, <br/>
@@ -146,7 +147,7 @@ he is the **greatest** in the kingdom of heaven.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **aspire** to <br/> **childlike** faith in Christ?
+# Do I **aspire** to <br/> **childlike** faith <br/>in Christ?
 
 >>>
 
@@ -193,7 +194,7 @@ the Day drawing near.
 
 ---
 <!-- .slide: data-background="white" -->
-# What **sinews of supply** in the church have I been resisting?
+# What<br/>**sinews** of **supply** <br/>in the church <br/>have I been resisting?
 
 >>>
 + or sharp poky sticks
