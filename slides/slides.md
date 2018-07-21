@@ -43,9 +43,9 @@ as each **part** does its work.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
 ## Eph4:14-16 One Faith
-1. Sneaky **Schemes** <span class="hl2">(v14)</span>
-2. Seeking the **Saviour** <span class="hl2">(v15)</span>
-3. **Sinews** of Supply <span class="hl2">(v16)</span>
+1. Sneaky **Schemes** [(v14)](# "ref")
+2. Seeking the **Saviour** [(v15)](# "ref")
+3. **Sinews** of Supply [(v16)](# "ref")
 
 ---
 ## Ephesians 4:14 (NIV)
@@ -88,9 +88,9 @@ Jung Myung Seok (Joshua)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
 ## Eph4:14-16 One Faith
-1. Sneaky *Schemes* <span class="hl2">(v14)</span>
-2. **Seeking the Saviour** <span class="hl2">(v15)</span>
-3. *Sinews* of Supply <span class="hl2">(v16)</span>
+1. Sneaky *Schemes* [(v14)](# "ref")
+2. **Seeking the Saviour** [(v15)](# "ref")
+3. *Sinews* of Supply [(v16)](# "ref")
 
 ---
 ## Ephesians 4:15 (NIV)
@@ -143,9 +143,9 @@ he is the **greatest** in the kingdom of heaven.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
 ## Eph4:14-16 One Faith
-1. Sneaky *Schemes* <span class="hl2">(v14)</span>
-2. Seeking the *Saviour* <span class="hl2">(v15)</span>
-3. **Sinews of Supply** <span class="hl2">(v16)</span>
+1. Sneaky *Schemes* [(v14)](# "ref")
+2. Seeking the *Saviour* [(v15)](# "ref")
+3. **Sinews of Supply** [(v16)](# "ref")
 
 ---
 ## Ephesians 4:16 (NIV)
