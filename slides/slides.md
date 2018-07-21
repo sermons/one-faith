@@ -29,11 +29,10 @@ of people in their **deceitful scheming**.
 ---
 Instead, speaking the **truth in love**,
 
-we will **grow** <br/>
-to become in every respect
+we will **grow** to become <br/>
+in every respect the **mature body**
 
-the **mature body** of him <br/>
-who is the **head**, that is, Christ.
+of him who is the **head**, that is, Christ.
 
 [Ephesians 4:15 (NIV) (p.2/3)](# "ref")
 
@@ -55,8 +54,9 @@ as each **part** does its work.
 3. **Sinews** of Supply [(v16)](# "ref")
 
 ---
+<!-- .slide: <%= bg("Bakhuizen-Ships_Running_Aground_in_a_Storm-WGA01131.jpg") %> -->
 Then we will no longer be **infants**, <br/>
-tossed back and forth by the waves,
+tossed back and forth by the **waves**,
 
 and blown here and there<br/>
 by every **wind of teaching**
@@ -100,6 +100,7 @@ Jung Myung Seok (Joshua)
 3. *Sinews* of Supply [(v16)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-2oFdVd00xOg-island_mtn.jpg") %> -->
 Instead, speaking the **truth in love**,
 
 we will **grow** to become <br/>
@@ -159,6 +160,7 @@ he is the **greatest** in the kingdom of heaven.
 3. **Sinews of Supply** [(v16)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-DtHTWqkgBZc-forest_house.jpg") %> -->
 From him the whole body, <br/>
 **joined** and **held together** <br/>
 by every **supporting ligament**,
@@ -173,6 +175,7 @@ as each **part** does its work.
 ... by every **supporting ligament** ...
 
 ---
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 And let us consider how to **stir up** one another <br/>
 to **love** and good **works**, 
 
