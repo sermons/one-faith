@@ -172,8 +172,31 @@ as each **part** does its work.
 ... by every **supporting ligament** ...
 
 ---
+And let us consider how to **stir up** one another <br/>
+to **love** and good **works**, 
+
+[25](# "ref")
+not neglecting to **meet together**, <br/>
+as is the habit of some,
+
+but **encouraging** one another,  <br/>
+and all the more as you see <br/>
+the Day drawing near.
+
+[Hebrews 10:24-25 (ESV)](# "ref")
+
+>>>
++ "stir up": prod, poke sharply
+  + purpose: **love** in **action**
++ "meet": physically, if possible
++ "encourage": in light of imminent return
+
+---
 <!-- .slide: data-background="white" -->
 # What **sinews of supply** in the church have I been resisting?
+
+>>>
++ or sharp poky sticks
 
 ---
 <!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
