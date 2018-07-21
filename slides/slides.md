@@ -15,24 +15,29 @@
 # What does it mean to be **mature**?
 
 ---
-## Ephesians 4:14 (NIV) (p.1/3)
 Then we will no longer be **infants**, <br/>
 tossed back and forth by the waves,
 
-and blown here and there by every **wind of teaching**
+and blown here and there <br/>
+by every **wind of teaching**
 
 and by the **cunning** and **craftiness** <br/>
 of people in their **deceitful scheming**.
 
----
-## Ephesians 4:15 (NIV) (p.2/3)
-Instead, speaking the **truth in love**, <br/>
-we will **grow** to become <br/>
-in every respect the **mature body** <br/>
-of him who is the **head**, that is, Christ.
+[Ephesians 4:14 (NIV) (p.1/3)](# "ref")
 
 ---
-## Ephesians 4:16 (NIV) (p.3/3)
+Instead, speaking the **truth in love**,
+
+we will **grow** <br/>
+to become in every respect
+
+the **mature body** of him <br/>
+who is the **head**, that is, Christ.
+
+[Ephesians 4:15 (NIV) (p.2/3)](# "ref")
+
+---
 From him the whole body, <br/>
 **joined** and **held together** <br/>
 by every **supporting ligament**,
@@ -40,36 +45,38 @@ by every **supporting ligament**,
 **grows** and **builds** itself up in love, <br/>
 as each **part** does its work.
 
+[Ephesians 4:16 (NIV) (p.3/3)](# "ref")
+
 ---
-<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
-## Eph4:14-16 One Faith
+<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> class="outline" -->
+## One Faith [Eph4]
 1. Sneaky **Schemes** [(v14)](# "ref")
 2. Seeking the **Saviour** [(v15)](# "ref")
 3. **Sinews** of Supply [(v16)](# "ref")
 
 ---
-## Ephesians 4:14 (NIV)
 Then we will no longer be **infants**, <br/>
 tossed back and forth by the waves,
 
-and blown here and there by every **wind of teaching**
+and blown here and there<br/>
+by every **wind of teaching**
 
 and by the **cunning** and **craftiness** <br/>
 of people in their **deceitful scheming**.
 
----
+[Ephesians 4:14 (NIV)](# "ref")
 
+---
 ## Providence (JMS)
 
-<div class="imgbox">
-<div>
+<div class="imgbox"><div>
 For further reading:
-* [Apologetics Index](http://www.apologeticsindex.org/416-jung-myung-seok)
-* [A Study of Denominations](http://www.astudyofdenominations.com/denominations/providence/)
-* [JMSCult](http://jmscult.com/)
-</div>
-<div>![JMS, from their own website](https://sermons.seanho.com/img/fig/jungmyungseok.png)</div>
-</div>
+[Apologetics Index](http://www.apologeticsindex.org/416-jung-myung-seok),
+[A Study of Denominations](http://www.astudyofdenominations.com/denominations/providence/),
+[JMSCult](http://jmscult.com/)
+</div><div>
+![JMS, from their own website](https://sermons.seanho.com/img/fig/jungmyungseok.png)
+</div></div>
 
 >>>
 Jung Myung Seok (Joshua)
@@ -86,20 +93,21 @@ Jung Myung Seok (Joshua)
 # or **blown** by <br/> winds of teaching?
 
 ---
-<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
-## Eph4:14-16 One Faith
+<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> class="outline" -->
+## One Faith [(Eph4)](# "ref")
 1. Sneaky *Schemes* [(v14)](# "ref")
 2. **Seeking the Saviour** [(v15)](# "ref")
 3. *Sinews* of Supply [(v16)](# "ref")
 
 ---
-## Ephesians 4:15 (NIV)
 Instead, speaking the **truth in love**,
 
 we will **grow** to become <br/>
 in every respect the **mature body**
 
 of him who is the **head**, that is, Christ.
+
+[Ephesians 4:15 (NIV)](# "ref")
 
 >>>
 + **truth** in love:
@@ -110,7 +118,6 @@ of him who is the **head**, that is, Christ.
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
-## Mark 8:34,36 (NASB)
 If anyone wishes to **come after Me**, <br/>
 he must **deny himself**, <br/>
 and **take up his cross** and **follow Me**.
@@ -118,18 +125,21 @@ and **take up his cross** and **follow Me**.
 [...] For what does it **profit** a man <br/>
 to **gain the whole world**, and **forfeit his soul**?
 
+[Mark 8:34,36 (NASB)](# "ref")
+
 >>>
 + **maturity**: knowing lots? **capable**?
 + Humbly walk with God as a **child**
 
 ---
 <!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
-## Matthew 18:3-4 (NASB)
 Unless you are converted and **become like children**, <br/>
 you will not enter the **kingdom of heaven**.
 
 Whoever then **humbles himself** as this child, <br/>
 he is the **greatest** in the kingdom of heaven.
+
+[Matthew 18:3-4 (NASB)](# "ref")
 
 >>>
 + Greatest **aspiration**: walk with our **Saviour**
@@ -141,20 +151,21 @@ he is the **greatest** in the kingdom of heaven.
 >>>
 
 ---
-<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
-## Eph4:14-16 One Faith
+<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> class="outline" -->
+## One Faith [(Eph4)](# "ref")
 1. Sneaky *Schemes* [(v14)](# "ref")
 2. Seeking the *Saviour* [(v15)](# "ref")
 3. **Sinews of Supply** [(v16)](# "ref")
 
 ---
-## Ephesians 4:16 (NIV)
 From him the whole body, <br/>
 **joined** and **held together** <br/>
 by every **supporting ligament**,
 
 **grows** and **builds** itself up in love, <br/>
 as each **part** does its work.
+
+[Ephesians 4:16 (NIV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-cpyEmA5b6EI-dancers.jpg") %> -->
@@ -166,32 +177,36 @@ as each **part** does its work.
 
 ---
 <!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
-## Ephesians 4:14 (NIV) (p.1/3)
 Then we will no longer be **infants**, <br/>
 tossed back and forth by the waves,
 
-and blown here and there by every **wind of teaching**
+and blown here and there <br>
+by every **wind of teaching**
 
 and by the **cunning** and **craftiness** <br/>
 of people in their **deceitful scheming**.
 
+[Ephesians 4:14 (NIV) (p.1/3)](# "ref")
+
 ---
 <!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
-## Ephesians 4:15 (NIV) (p.2/3)
 Instead, speaking the **truth in love**, <br/>
 we will **grow** to become <br/>
 in every respect the **mature body** <br/>
 of him who is the **head**, that is, Christ.
 
+[Ephesians 4:15 (NIV) (p.2/3)](# "ref")
+
 ---
 <!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
-## Ephesians 4:16 (NIV) (p.3/3)
 From him the whole body, <br/>
 **joined** and **held together** <br/>
 by every **supporting ligament**,
 
 **grows** and **builds** itself up in love, <br/>
 as each **part** does its work.
+
+[Ephesians 4:16 (NIV) (p.3/3)](# "ref")
 
 >>>
 1. Sneaky **Schemes**
