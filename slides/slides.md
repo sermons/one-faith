@@ -112,9 +112,10 @@ of people in their **deceitful scheming**.
 
 <div class="imgbox"><div>
 For further reading:
-[Apologetics Index](http://www.apologeticsindex.org/416-jung-myung-seok)<br/>
-[A Study of Denominations](http://www.astudyofdenominations.com/denominations/providence/)<br/>
-[JMSCult](http://jmscult.com/)
+[Apologetics Index](http://www.apologeticsindex.org/416-jung-myung-seok),<br/>
+[A Study of Denominations](http://www.astudyofdenominations.com/denominations/providence/),<br/>
+[Korea Exposé](https://www.koreaexpose.com/cult-jms-leader-and-convicted-rapist-gains-freedom/)
+(secular investigative reporting)
 </div><div>
 ![JMS, from their own website](https://sermons.seanho.com/img/fig/jungmyungseok.png)
 </div></div>
