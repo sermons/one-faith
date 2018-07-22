@@ -3,12 +3,16 @@
 ## (3) Ephesians 4:14-16
 ### Choose His *Kingdom*, <br> Journey *Together*
 
+[Dolomites, Italy. Joshua Earle](https://unsplash.com/photos/8MbdD0pHXGY "caption")
+
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
 ## Choose His Kingdom, Journey Together
 1. One *Calling* [(v1-3)](# ref")
 2. One *Body* [(v11-13)](# ref")
 3. **One Faith** [(v14-16)](# ref")
+
+[Venray, Netherlands. Michael Coury](https://unsplash.com/photos/DiKkJKvDi64 "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -48,7 +52,7 @@ as each **part** does its work.
 
 ---
 <!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> class="outline" -->
-## One Faith [Eph4]
+## One Faith [Eph4](# "ref")
 1. Sneaky **Schemes** [(v14)](# "ref")
 2. Seeking the **Saviour** [(v15)](# "ref")
 3. **Sinews** of Supply [(v16)](# "ref")
@@ -65,6 +69,7 @@ and by the **cunning** and **craftiness** <br/>
 of people in their **deceitful scheming**.
 
 [Ephesians 4:14 (NIV)](# "ref")
+[Ships Running Aground in a Storm, <br> Ludolf Bakhuizen, ~1690](https://commons.m.wikimedia.org/wiki/File:Ludolf_Bakhuizen_-_Ships_Running_Aground_in_a_Storm_-_WGA01131.jpg "caption")
 
 ---
 ## Providence (JMS)
@@ -109,6 +114,7 @@ in every respect the **mature body**
 of him who is the **head**, that is, Christ.
 
 [Ephesians 4:15 (NIV)](# "ref")
+[Samuel Scrimshaw](https://unsplash.com/photos/2oFdVd00xOg "caption")
 
 >>>
 + **truth** in love:
@@ -127,6 +133,7 @@ and **take up his cross** and **follow Me**.
 to **gain the whole world**, and **forfeit his soul**?
 
 [Mark 8:34,36 (NASB)](# "ref")
+[Plattenkogel, Gemeinde Krimml, Austria. <br> Lukas Budimaier](https://unsplash.com/photos/6cY-FvMlmkQ "caption")
 
 >>>
 + **maturity**: knowing lots? **capable**?
@@ -142,6 +149,7 @@ Whoever then **humbles himself** as this child, <br/>
 he is the **greatest** in the kingdom of heaven.
 
 [Matthew 18:3-4 (NASB)](# "ref")
+[Legenäsgatan, Borgholm N, Sweden<br>Jon Flobrant](https://unsplash.com/photos/C2PvO6dOORY "caption")
 
 >>>
 + Greatest **aspiration**: walk with our **Saviour**
@@ -169,6 +177,7 @@ by every **supporting ligament**,
 as each **part** does its work.
 
 [Ephesians 4:16 (NIV)](# "ref")
+[Arieseni, Romania. Brigitte Tohm](https://unsplash.com/photos/DtHTWqkgBZc "caption")
 
 ---
 <!-- .slide: <%= bg("unsplash-cpyEmA5b6EI-dancers.jpg") %> -->
@@ -188,6 +197,7 @@ and all the more as you see <br/>
 the Day drawing near.
 
 [Hebrews 10:24-25 (ESV)](# "ref")
+[Nancy, France. Rémi Walle](https://unsplash.com/photos/UOwvwZ9Dy6w "caption")
 
 >>>
 + "stir up": prod, poke sharply
@@ -197,7 +207,7 @@ the Day drawing near.
 
 ---
 <!-- .slide: data-background="white" -->
-# What<br/>**sinews** of **supply** <br/>in the church <br/>have I been resisting?
+# What<br/>**sinews** of **supply** <br/>in the church <br/>have I been **resisting**?
 
 >>>
 + or sharp poky sticks
