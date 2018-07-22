@@ -18,6 +18,13 @@
 <!-- .slide: data-background="white" -->
 # What does it mean to be **mature**?
 
+>>>
++ old? educated? experienced? sober? 
++ mature Christian:
+  + **grounded** in Word
+  + **pursuing** Christlikeness
+  + **growing** in unity
+
 ---
 Then we will no longer be **infants**, <br/>
 tossed back and forth by the waves,
@@ -58,6 +65,25 @@ as each **part** does its work.
 3. **Sinews** of Supply [(v16)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
+until we all reach **unity** <br/>
+in **the faith** <br/>
+and in **the knowledge** of the Son of God
+
+and become **mature**, <br/>
+attaining to the whole measure <br/>
+of the **fullness** of Christ.
+
+[Ephesians 4:13 (NIV)](# "ref")
+
+>>>
++ same **sentence** as v11-13 prior:
++ **roles** given by God: word + people
++ for **service**, to **build** up
++ goal: **unity** + experiential **knowledge** of God's faithfulness
++ &rArr; **maturity** (complete, finished, perfect)
+
+---
 <!-- .slide: <%= bg("Bakhuizen-Ships_Running_Aground_in_a_Storm-WGA01131.jpg") %> -->
 Then we will no longer be **infants**, <br/>
 tossed back and forth by the **waves**,
@@ -73,7 +99,9 @@ of people in their **deceitful scheming**.
 
 >>>
 + "tossed": surging waves
-+ "blown": carried
+  + "blown": carried
+  + e.g., baby sleep advice
+  + ships need an **anchor**
 + "cunning of men": dice, sleight of hand
 + "crafty" (πανουργίᾳ): capable/ready for anything
 + "scheming": method, strategy
@@ -102,8 +130,14 @@ Jung Myung Seok (Joshua)
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I **grounded** <br/> in God's Word
+# Am I **anchored** <br/> in God's Word
 # or **blown** by <br/> winds of teaching?
+
+>>>
++ listening to ministry of **Word**
+  + apostle prophet evangelist
++ training from ministry of **mentorship**
+  + pastor teacher
 
 ---
 <!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> class="outline" -->
@@ -125,11 +159,20 @@ of him who is the **head**, that is, Christ.
 [Samuel Scrimshaw](https://unsplash.com/photos/2oFdVd00xOg "caption")
 
 >>>
-+ **truth** in love:
-  + not **sincerity** / honesty
-  + **God's** truth
++ "truth": not **sincerity** / honesty
+  + **God's** truth: know Word
++ "truth": be **people** of truth
+  + not only "speak": **priorities**, thinking, action
++ **active** vs "blown" passive
+  + not kids who passively receive **instruction**
+  + active **role** in own growth
+  + **choose** to permeate life w/God's truth
++ in **love**: not to tear down
+  + e.g. **bullies**' insecurity
 + grow into the **Head**
   + singular vision to **pursue** Christ
+  + learn His **heart**
+  + walk in His **footsteps**:
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
@@ -144,8 +187,13 @@ to **gain the whole world**, and **forfeit his soul**?
 [Plattenkogel, Gemeinde Krimml, Austria. <br> Lukas Budimaier](https://unsplash.com/photos/6cY-FvMlmkQ "caption")
 
 >>>
++ "deny": not lord of own life
++ "cross": die to **sin**
+  + "it is **finished**" on cross
+  + this sin does not **define** me
++ "follow": disciple
 + **maturity**: knowing lots? **capable**?
-+ Humbly walk with God as a **child**
+  + Humbly walk w/God as **child**
 
 ---
 <!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
@@ -167,6 +215,9 @@ he is the **greatest** in the kingdom of heaven.
 # Do I **aspire** to <br/> **childlike** faith <br/>in Christ?
 
 >>>
++ what is **maturity**?
++ what are my **goals**? 1-yr, 5-yr, 20-yr
+  + definition of **success**
 
 ---
 <!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> class="outline" -->
@@ -174,6 +225,12 @@ he is the **greatest** in the kingdom of heaven.
 1. Sneaky *Schemes* [(v14)](# "ref")
 2. Seeking the *Saviour* [(v15)](# "ref")
 3. **Sinews of Supply** [(v16)](# "ref")
+
+>>>
++ anchored in **Word**
++ walk **humbly** w/our God
++ joined w/**body** of Christ
+  + even when it **limits** my personal freedom
 
 ---
 <!-- .slide: <%= bg("unsplash-DtHTWqkgBZc-forest_house.jpg") %> -->
@@ -187,9 +244,30 @@ as each **part** does its work.
 [Ephesians 4:16 (NIV)](# "ref")
 [Arieseni, Romania. Brigitte Tohm](https://unsplash.com/photos/DtHTWqkgBZc "caption")
 
+>>>
++ beautiful music, living plant, sturdy house
++ "joined" (συναρμολογούμενον): **harmony**
+  + diff bg, personality
+  + "each part": **each + every** portion in energy
+  + **treasure** differences
+  + highlights our common **confession** in Christ
++ "held" (συμβιβαζόμενον): solid **basis** / footing together
+  + not easily **shaken**
++ "ligament": connection, sinew
+  + **constrains** range of motion
+  + prevent **injury** to self/others
++ but more: "supply" (ἐπιχορηγίας):
+  + provide every **need**
+  + **sponsor** chorus/dance group
++ much **easier** to be lone Christian, but
+  + much **harder** to grow in Christ
+
 ---
 <!-- .slide: <%= bg("unsplash-cpyEmA5b6EI-dancers.jpg") %> -->
 ... by every **supporting ligament** ...
+
+>>>
++ e.g.
 
 ---
 <!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
