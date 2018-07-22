@@ -71,6 +71,14 @@ of people in their **deceitful scheming**.
 [Ephesians 4:14 (NIV)](# "ref")
 [Ships Running Aground in a Storm, <br> Ludolf Bakhuizen, ~1690](https://commons.m.wikimedia.org/wiki/File:Ludolf_Bakhuizen_-_Ships_Running_Aground_in_a_Storm_-_WGA01131.jpg "caption")
 
+>>>
++ "tossed": surging waves
++ "blown": carried
++ "cunning of men": dice, sleight of hand
++ "crafty" (πανουργίᾳ): capable/ready for anything
++ "scheming": method, strategy
++ "deceitful": plane/t, wandering, aimless, go astray, vs truth, misled
+
 ---
 ## Providence (JMS)
 
