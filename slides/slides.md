@@ -1,7 +1,6 @@
 <!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> id="title" -->
-# One **Faith**
-## (3) Ephesians 4:14-16
-### Choose His *Kingdom*, <br> Journey *Together*
+# One Faith
+## Ephesians 4:14-16
 
 [Dolomites, Italy. Joshua Earle](https://unsplash.com/photos/8MbdD0pHXGY "caption")
 
@@ -24,38 +23,6 @@
   + **grounded** in Word
   + **pursuing** Christlikeness
   + **growing** in unity
-
----
-Then we will no longer be **infants**, <br/>
-tossed back and forth by the waves,
-
-and blown here and there <br/>
-by every **wind of teaching**
-
-and by the **cunning** and **craftiness** <br/>
-of people in their **deceitful scheming**.
-
-[Ephesians 4:14 (NIV) (p.1/3)](# "ref")
-
----
-Instead, speaking the **truth in love**,
-
-we will **grow** to become <br/>
-in every respect the **mature body**
-
-of him who is the **head**, that is, Christ.
-
-[Ephesians 4:15 (NIV) (p.2/3)](# "ref")
-
----
-From him the whole body, <br/>
-**joined** and **held together** <br/>
-by every **supporting ligament**,
-
-**grows** and **builds** itself up in love, <br/>
-as each **part** does its work.
-
-[Ephesians 4:16 (NIV) (p.3/3)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> class="outline" -->
@@ -111,13 +78,17 @@ of people in their **deceitful scheming**.
 ## Providence (JMS)
 
 <div class="imgbox"><div>
+
 For further reading:
 [Apologetics Index](http://www.apologeticsindex.org/416-jung-myung-seok),<br/>
 [A Study of Denominations](http://www.astudyofdenominations.com/denominations/providence/),<br/>
 [Korea Exposé](https://www.koreaexpose.com/cult-jms-leader-and-convicted-rapist-gains-freedom/)
 (secular investigative journalism)
+
 </div><div>
+
 ![JMS, from their own website](https://sermons.seanho.com/img/fig/jungmyungseok.png)
+
 </div></div>
 
 >>>
@@ -131,8 +102,7 @@ Jung Myung Seok (Joshua)
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I **anchored** <br/> in God's Word
-# or **blown** by <br/> winds of teaching?
+# Am I **anchored** <br/> in God's Word <br/> or **blown** by <br/> winds of teaching?
 
 >>>
 + listening to ministry of **Word**
@@ -275,7 +245,6 @@ as each **part** does its work.
 And let us consider how to **stir up** one another <br/>
 to **love** and good **works**, 
 
-[25](# "ref")
 not neglecting to **meet together**, <br/>
 as is the habit of some,
 
