@@ -80,10 +80,13 @@ of people in their **deceitful scheming**.
 <div class="imgbox"><div>
 
 For further reading:
-[Apologetics Index](http://www.apologeticsindex.org/416-jung-myung-seok),<br/>
-[A Study of Denominations](http://www.astudyofdenominations.com/denominations/providence/),<br/>
-[Korea Exposé](https://www.koreaexpose.com/cult-jms-leader-and-convicted-rapist-gains-freedom/)
+
++ [Apologetics Index](http://www.apologeticsindex.org/416-jung-myung-seok) 
++ [A Study of Denominations](http://www.astudyofdenominations.com/denominations/providence/)
++ [Korea Exposé](https://www.koreaexpose.com/cult-jms-leader-and-convicted-rapist-gains-freedom/)
 (secular investigative journalism)
+
+<!-- .element: style="font-size: 0.75em" -->
 
 </div><div>
 
